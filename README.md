@@ -5,7 +5,7 @@ Hides jobs where someone has already been hired from your search.
 # Installation
 
 - Install tamperMonkey or GreaseMonkey extension for your browser
-- Visit xxxxx and hit the install button
+- Visit https://greasyfork.org/en/scripts/432009-upwork-hide-jobs-with-hires and hit the install button
 - Vist Upwork and do a search (or refresh the Upwork page if it's already open)
 
 # How to Use
